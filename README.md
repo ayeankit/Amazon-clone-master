@@ -21,7 +21,7 @@ The features include:
 To run the application locally; clone the repo, install dependencies and run the app.
 
 ```
-$ git clone https://github.com/nitish1310/amazon-clone
+$ git clone https://github.com/amazon-clone
 $ cd amazon-clone
 $ yarn && yarn start
 ```
